@@ -1,0 +1,120 @@
+[11:21:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[11:21:54] [Server thread/INFO] [icbmclassic]: Stopping threads
+[11:21:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[11:21:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[11:21:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[11:21:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/the_nether
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Storage Cell
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.asteroids
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Ceres
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Eris
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Jupiter
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.kepler22b
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.mars
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Mercury
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Neptune
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Pluto
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Saturn
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Uranus
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.venus
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.callisto
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.deimos
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.europa
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.ganymede
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.iapetus
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.io
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.moon
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.oberon
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.phobos
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.rhea
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.titan
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.titania
+[11:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.triton
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -9999
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 2
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -30
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -20
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -21
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -15
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -22
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -29
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -13
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -18
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -19
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -16
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -17
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -31
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1505
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1503
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1501
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1506
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1511
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1500
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -28
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1509
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1502
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1507
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1508
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1510
+[11:21:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1504
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension 0
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -1
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -9999
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension 2
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -30
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -20
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -21
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -15
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -22
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -29
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -13
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -18
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -19
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -16
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -17
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -31
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -1505
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -1503
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -1501
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -1506
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -1511
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -1500
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -28
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -1509
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -1502
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -1507
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -1508
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -1510
+[11:21:55] [Server thread/INFO] [FML]: Unloading dimension -1504
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -30
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -20
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -21
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -15
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -22
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -29
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -13
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -18
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -19
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -16
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -17
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -31
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1505
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1503
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1501
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1506
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1511
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1500
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -28
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1509
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1502
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1507
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1508
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1510
+[11:21:55] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1504
+[11:21:55] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[11:21:55] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[11:21:55] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
