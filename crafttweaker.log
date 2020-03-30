@@ -1,0 +1,92 @@
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: t1122p_changes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: t1122p_loot.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: world_control.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 3ms
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: t1122p_changes.zs}
+[INITIALIZATION][SERVER][INFO] Translating tile.bookshelf.name to Oak Bookshelf
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <galacticraftcore:rocket_t1>: "Discover new planets & moons using the Satellite Controller & Telescope"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <galacticraftcore:rocket_t1>: "Pre-Launch Checklist is recommended"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <galacticraftcore:rocket_t1:1>: "Discover new planets & moons using the Satellite Controller & Telescope"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <galacticraftcore:rocket_t1:1>: "Pre-Launch Checklist is recommended"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <galacticraftcore:rocket_t1:2>: "Discover new planets & moons using the Satellite Controller & Telescope"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <galacticraftcore:rocket_t1:2>: "Pre-Launch Checklist is recommended"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <galacticraftcore:rocket_t1:3>: "Discover new planets & moons using the Satellite Controller & Telescope"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <galacticraftcore:rocket_t1:3>: "Pre-Launch Checklist is recommended"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <galacticraftcore:dishbase>: "Connect to a Satellite Controller using the Keycard"
+[INITIALIZATION][SERVER][INFO] Translating item.satellite_module_basic.name to Satellite Module
+[INITIALIZATION][SERVER][INFO] Translating item.satellite_basic.name to Satellite
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <buildcraftbuilders:quarry>: "Uses MJ power only; Energy Converters mod is optional"
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: t1122p_loot.zs}
+[INITIALIZATION][SERVER][INFO] Queued pool ic2 of table minecraft:chests/abandoned_mineshaft for removal
+[INITIALIZATION][SERVER][INFO] Queued pool growthcraft_hops:loot_table_simple_dungeon of table minecraft:chests/abandoned_mineshaft for removal
+[INITIALIZATION][SERVER][INFO] Queued pool growthcraft_grapes:loot_table_simple_dungeon of table minecraft:chests/abandoned_mineshaft for removal
+[INITIALIZATION][SERVER][INFO] Retrieved pool main from table minecraft:chests/abandoned_mineshaft
+[INITIALIZATION][SERVER][INFO] Retrieved pool pool1 from table minecraft:chests/abandoned_mineshaft
+[INITIALIZATION][SERVER][INFO] Retrieved pool pool2 from table minecraft:chests/abandoned_mineshaft
+[INITIALIZATION][SERVER][INFO] Retrieved pool forestry_factory_items from table minecraft:chests/abandoned_mineshaft
+[INITIALIZATION][SERVER][INFO] Retrieved pool forestry_storage_items from table minecraft:chests/abandoned_mineshaft
+[INITIALIZATION][SERVER][INFO] Retrieved pool forestry_apiculture_bees from table minecraft:chests/abandoned_mineshaft
+[INITIALIZATION][SERVER][INFO] Retrieved pool Ender IO from table minecraft:chests/abandoned_mineshaft
+[INITIALIZATION][SERVER][INFO] Retrieved pool railcraft_resources from table minecraft:chests/abandoned_mineshaft
+[INITIALIZATION][SERVER][INFO] Retrieved pool railcraft_carts from table minecraft:chests/abandoned_mineshaft
+[INITIALIZATION][SERVER][INFO] Retrieved pool AE2 Crystals from table minecraft:chests/abandoned_mineshaft
+[INITIALIZATION][SERVER][INFO] Retrieved pool AE2 DUSTS from table minecraft:chests/abandoned_mineshaft
+[INITIALIZATION][SERVER][INFO] Rolls of pool pool1 in table minecraft:chests/abandoned_mineshaft will be set to (1.000000, 2.000000)
+[INITIALIZATION][SERVER][INFO] Rolls of pool pool2 in table minecraft:chests/abandoned_mineshaft will be set to (1.000000, 2.000000)
+[INITIALIZATION][SERVER][INFO] Rolls of pool Ender IO in table minecraft:chests/abandoned_mineshaft will be set to (1.000000, 1.000000)
+[INITIALIZATION][SERVER][INFO] Rolls of pool railcraft_resources in table minecraft:chests/abandoned_mineshaft will be set to (0.000000, 1.000000)
+[INITIALIZATION][SERVER][INFO] Rolls of pool railcraft_carts in table minecraft:chests/abandoned_mineshaft will be set to (1.000000, 1.000000)
+[INITIALIZATION][SERVER][INFO] Rolls of pool AE2 Crystals in table minecraft:chests/abandoned_mineshaft will be set to (1.000000, 2.000000)
+[INITIALIZATION][SERVER][INFO] Rolls of pool AE2 DUSTS in table minecraft:chests/abandoned_mineshaft will be set to (1.000000, 2.000000)
+[INITIALIZATION][SERVER][INFO] Queueing entry minecraft:coal of pool railcraft_resources for removal
+[INITIALIZATION][SERVER][INFO] Queueing entry railcraft:ingot of pool railcraft_resources for removal
+[INITIALIZATION][SERVER][INFO] Queueing entry railcraft:plate of pool railcraft_resources for removal
+[INITIALIZATION][SERVER][INFO] Retrieved pool Ender IO from table enderio:chests/abandoned_mineshaft
+[INITIALIZATION][SERVER][INFO] Queueing entry enderio:item_material:9 of pool Ender IO for removal
+[INITIALIZATION][SERVER][INFO] Queueing entry empty of pool main for removal
+[INITIALIZATION][SERVER][INFO] Queueing entry empty of pool forestry_factory_items for removal
+[INITIALIZATION][SERVER][INFO] Queueing entry empty of pool forestry_storage_items for removal
+[INITIALIZATION][SERVER][INFO] Queueing entry empty of pool forestry_apiculture_bees for removal
+[INITIALIZATION][SERVER][INFO] Queued pool ic2 of table minecraft:chests/simple_dungeon for removal
+[INITIALIZATION][SERVER][INFO] Queued pool ic2 of table minecraft:chests/end_city_treasure for removal
+[INITIALIZATION][SERVER][INFO] Queued pool ic2 of table minecraft:chests/igloo_chest for removal
+[INITIALIZATION][SERVER][INFO] Queued pool ic2 of table minecraft:chests/nether_bridge for removal
+[INITIALIZATION][SERVER][INFO] Queued pool ic2 of table minecraft:chests/stronghold_corridor for removal
+[INITIALIZATION][SERVER][INFO] Queued pool ic2 of table minecraft:chests/stronghold_crossing for removal
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: world_control.zs}
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 498ms
+[POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][SERVER][INFO] Removing Shapeless recipes for <galacticraftcore:prelaunch_checklist>
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Shapeless recipes.
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Oak Bookshelf with name ct_shaped-985595673
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Communication Dish Keycard with name ct_shaped1667820940
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Pre-Launch Checklist with name ct_shapeless1026837510
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Industrial Alarm with name ct_shaped182906331
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Howler Alarm with name ct_shaped-946877877
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Basic Info Panel with name ct_shaped-338567943
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Basic Info Panel Extender with name ct_shaped737313107
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for IC2 Thermal Monitor with name ct_shaped-764212568
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Extreme Reactor Monitor with name ct_shaped1688328687
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Thermometer with name ct_shaped846393976
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for EU Reactor Kit with name ct_shaped1286127726
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Extreme Reactor Kit with name ct_shaped-1394803942
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for EU Energy Kit with name ct_shaped-791435870
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Fluid Kit with name ct_shaped-1529747151
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Forge Energy Kit with name ct_shaped-1345310295
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Time Card with name ct_shapeless1019459691
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Range Upgrade with name ct_shaped-651863682
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Color Upgrade with name ct_shaped1756563581
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Portable Information Panel with name ct_shaped1790748237
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <galacticraftcore:basic_block_core:8>
+[POSTINITIALIZATION][SERVER][INFO] Applying MrCrayfish's Furniture Mod changes...
+[SERVER_ABOUT_TO_START][SERVER][INFO] Skipped modifying pool forestry_factory_items of table minecraft:chests/abandoned_mineshaft because it is frozen
+[SERVER_ABOUT_TO_START][SERVER][INFO] Skipped modifying pool forestry_storage_items of table minecraft:chests/abandoned_mineshaft because it is frozen
+[SERVER_ABOUT_TO_START][SERVER][INFO] Skipped modifying pool forestry_apiculture_bees of table minecraft:chests/abandoned_mineshaft because it is frozen
+[SERVER_ABOUT_TO_START][SERVER][INFO] Skipped modifying pool railcraft_resources of table minecraft:chests/abandoned_mineshaft because it is frozen
+[SERVER_ABOUT_TO_START][SERVER][INFO] Skipped modifying pool railcraft_carts of table minecraft:chests/abandoned_mineshaft because it is frozen
